@@ -1,0 +1,2 @@
+﻿model,dependent_variable,nobs,r_squared,adj_r_squared,aic,bic,durbin_watson,f_statistic,f_p_value
+contemporaneous_hac_ols,npl_ratio,19,0.914753,0.890396,-71.117346,-66.395151,0.958486,54.441081,0.0

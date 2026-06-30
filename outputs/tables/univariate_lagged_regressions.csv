@@ -1,0 +1,11 @@
+﻿target,cause,lag,nobs,coef,std_err,t_value,p_value,r_squared,result
+npl_ratio_qoq_change_pp,loan_yoy_change_pp,1,17,0.005459,0.003471,1.572505,0.115834,0.067365,未通过5%显著性
+npl_ratio_qoq_change_pp,loan_yoy_change_pp,2,16,0.001887,0.002922,0.645923,0.518329,0.008273,未通过5%显著性
+npl_ratio_qoq_change_pp,loan_to_deposit_ratio_qoq_change_pp,1,21,0.003276,0.004599,0.712322,0.476266,0.009234,未通过5%显著性
+npl_ratio_qoq_change_pp,loan_to_deposit_ratio_qoq_change_pp,2,20,-0.001258,0.005251,-0.239618,0.810626,0.001285,未通过5%显著性
+npl_ratio_qoq_change_pp,nim_qoq_change_pp,1,21,-0.115642,0.074079,-1.561067,0.118508,0.040711,未通过5%显著性
+npl_ratio_qoq_change_pp,nim_qoq_change_pp,2,20,-0.204658,0.081487,-2.511532,0.012021,0.139854,显著滞后回归
+npl_ratio_qoq_change_pp,capital_adequacy_qoq_change_pp,1,21,-0.055609,0.026239,-2.119302,0.034065,0.153775,显著滞后回归
+npl_ratio_qoq_change_pp,capital_adequacy_qoq_change_pp,2,20,0.020436,0.035565,0.574609,0.565555,0.022573,未通过5%显著性
+npl_ratio_qoq_change_pp,risk_pressure_index_z_change,1,17,-0.006019,0.019286,-0.31207,0.754987,0.003106,未通过5%显著性
+npl_ratio_qoq_change_pp,risk_pressure_index_z_change,2,16,0.045633,0.035999,1.267623,0.204933,0.158062,未通过5%显著性

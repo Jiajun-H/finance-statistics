@@ -1,0 +1,2 @@
+﻿model,nobs,variables,aic,bic,hqic,fpe
+VAR(1),17,"npl_ratio_qoq_change_pp, loan_yoy_change_pp, nim_qoq_change_pp, capital_adequacy_qoq_change_pp",-17.223752,-16.243501,-17.126313,3.555625e-08

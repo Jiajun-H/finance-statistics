@@ -1,0 +1,11 @@
+﻿target,cause,lag,nobs,correlation,p_value,result
+npl_ratio_qoq_change_pp,loan_yoy_change_pp,1,17,0.259548,0.314412,未通过5%显著性
+npl_ratio_qoq_change_pp,loan_yoy_change_pp,2,16,0.090956,0.737621,未通过5%显著性
+npl_ratio_qoq_change_pp,loan_to_deposit_ratio_qoq_change_pp,1,21,0.096096,0.678608,未通过5%显著性
+npl_ratio_qoq_change_pp,loan_to_deposit_ratio_qoq_change_pp,2,20,-0.035847,0.880734,未通过5%显著性
+npl_ratio_qoq_change_pp,nim_qoq_change_pp,1,21,-0.201769,0.380445,未通过5%显著性
+npl_ratio_qoq_change_pp,nim_qoq_change_pp,2,20,-0.373971,0.104305,未通过5%显著性
+npl_ratio_qoq_change_pp,capital_adequacy_qoq_change_pp,1,21,-0.392142,0.078715,未通过5%显著性
+npl_ratio_qoq_change_pp,capital_adequacy_qoq_change_pp,2,20,0.150243,0.527225,未通过5%显著性
+npl_ratio_qoq_change_pp,risk_pressure_index_z_change,1,17,-0.055736,0.831745,未通过5%显著性
+npl_ratio_qoq_change_pp,risk_pressure_index_z_change,2,16,0.397571,0.127271,未通过5%显著性

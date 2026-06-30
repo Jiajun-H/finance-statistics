@@ -1,0 +1,7 @@
+﻿variable,nobs,adf_stat,p_value,used_lag,result
+npl_ratio_qoq_change_pp,19,-5.658584,1e-06,2,平稳
+loan_yoy_change_pp,17,-5.589855,1e-06,0,平稳
+loan_to_deposit_ratio_qoq_change_pp,20,-4.95108,2.8e-05,1,平稳
+nim_qoq_change_pp,21,-5.273247,6e-06,0,平稳
+capital_adequacy_qoq_change_pp,19,-2.119093,0.236907,2,可能非平稳
+risk_pressure_index_z_change,17,-3.438965,0.0097,0,平稳

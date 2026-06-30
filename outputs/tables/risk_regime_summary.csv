@@ -1,0 +1,4 @@
+﻿risk_regime,risk_pressure_index_z_mean,npl_ratio_mean,nim_mean,loan_yoy_mean,loan_to_deposit_ratio_mean,capital_adequacy_mean,liquidity_ratio_mean,quarters
+低压力,-1.1307,1.5429,1.5243,8.3641,83.7301,15.5014,73.8286,7
+中压力,0.2093,1.635,1.8333,11.4557,82.0585,14.9033,63.345,6
+高压力,1.1098,1.7617,2.0583,12.0874,79.9487,14.7733,59.3867,6

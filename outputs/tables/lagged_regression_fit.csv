@@ -1,0 +1,2 @@
+﻿model,dependent_variable,nobs,r_squared,adj_r_squared,aic,bic,durbin_watson,f_statistic,f_p_value
+lag1_hac_ols,npl_ratio,18,0.923408,0.899841,-72.479046,-68.027187,1.165551,58.547191,0.0

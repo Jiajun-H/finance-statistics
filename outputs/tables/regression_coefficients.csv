@@ -1,0 +1,6 @@
+﻿model,variable,coef,std_err,t_value,p_value
+contemporaneous_hac_ols,const,2.896558,0.759066,3.815952,0.000136
+contemporaneous_hac_ols,loan_yoy,-0.002183,0.006253,-0.349051,0.727051
+contemporaneous_hac_ols,loan_to_deposit_ratio,-0.014562,0.009843,-1.479347,0.139047
+contemporaneous_hac_ols,nim,0.266052,0.057144,4.655773,3e-06
+contemporaneous_hac_ols,capital_adequacy,-0.034128,0.031599,-1.080034,0.280127

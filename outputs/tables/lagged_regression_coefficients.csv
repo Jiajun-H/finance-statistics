@@ -1,0 +1,6 @@
+﻿model,variable,coef,std_err,t_value,p_value
+lag1_hac_ols,const,2.874657,0.649116,4.428572,9e-06
+lag1_hac_ols,loan_yoy_lag1,-1e-05,0.004575,-0.002168,0.99827
+lag1_hac_ols,loan_to_deposit_ratio_lag1,-0.011591,0.008303,-1.396059,0.162697
+lag1_hac_ols,nim_lag1,0.229196,0.047889,4.786036,2e-06
+lag1_hac_ols,capital_adequacy_lag1,-0.047177,0.02968,-1.589506,0.111946

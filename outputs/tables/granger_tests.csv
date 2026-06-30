@@ -1,0 +1,6 @@
+﻿target,cause,best_lag,min_p_value,result
+npl_ratio_qoq_change_pp,loan_yoy_change_pp,1,0.503836,未通过5%显著性
+npl_ratio_qoq_change_pp,loan_to_deposit_ratio_qoq_change_pp,1,0.723825,未通过5%显著性
+npl_ratio_qoq_change_pp,nim_qoq_change_pp,2,0.144896,未通过5%显著性
+npl_ratio_qoq_change_pp,capital_adequacy_qoq_change_pp,1,0.089229,未通过5%显著性
+npl_ratio_qoq_change_pp,risk_pressure_index_z_change,2,0.299572,未通过5%显著性

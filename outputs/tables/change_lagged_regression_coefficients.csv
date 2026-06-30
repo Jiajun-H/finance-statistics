@@ -1,0 +1,6 @@
+﻿model,variable,coef,std_err,t_value,p_value
+lag1_hac_ols,const,-0.016808,0.004313,-3.897299,9.7e-05
+lag1_hac_ols,loan_yoy_change_pp_lag1,0.004031,0.003099,1.300576,0.193403
+lag1_hac_ols,loan_to_deposit_ratio_qoq_change_pp_lag1,0.004683,0.004177,1.121004,0.262286
+lag1_hac_ols,nim_qoq_change_pp_lag1,0.005584,0.037098,0.150527,0.880349
+lag1_hac_ols,capital_adequacy_qoq_change_pp_lag1,-0.015081,0.0145,-1.040054,0.298315
