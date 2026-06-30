@@ -1,0 +1,41 @@
+[project]
+name = "cn-bank-stats"
+version = "0.1.0"
+description = "中国银行体系信贷结构与经营风险统计分析"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "lxml>=5.2.2",
+    "matplotlib>=3.9.0",
+    "numpy>=2.0.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.2",
+    "requests>=2.32.3",
+    "scipy>=1.14.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.2",
+    "typer>=0.12.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.2.2",
+    "ruff>=0.5.0",
+]
+
+[project.scripts]
+cn-bank-stats = "cn_bank_stats.cli:app"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["uv_build>=0.11.23,<0.12.0"]
+build-backend = "uv_build"

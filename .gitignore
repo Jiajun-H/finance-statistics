@@ -1,0 +1,12 @@
+.venv/
+.ruff_cache/
+.pytest_cache/
+.agents/
+.codex/
+node_modules
+*.docx
+*.pdf
+__pycache__/
+*.py[cod]
+data/raw/
+outputs/
